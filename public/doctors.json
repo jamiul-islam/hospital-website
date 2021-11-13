@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Dr Arooj M",
+    "designation": "Telehealth physician at Sehat Kahani",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 8.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFKW6IUrWMZgg/profile-displayphoto-shrink_800_800/0/1605751314820?e=1640217600&v=beta&t=8nS8QKBdH6MHy8x_CwoiMS4ORIshqi6aSZ-KvqXUyZ0",
+    "type": "Medicine"
+  },
+  {
+    "id": 2,
+    "title": "Aileeya Fatima Shah",
+    "designation": "MBBS Doctor, Dermatologist Skin",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 9.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQECdbtQlKNU3g/profile-displayphoto-shrink_800_800/0/1602632590088?e=1640217600&v=beta&t=J_hXr2kgxZ46fKw1wgyq4Ya8OXOn7V1BmP7mRn2jY5w",
+    "type": "Medicine"
+  },
+  {
+    "id": 3,
+    "title": "Syeda Naveen Batool",
+    "designation": "Medical Officer OET certified (Medicine)",
+    "description": "Graduated from University of Health Sciences Lahore in 2017 and did my house job from Services Hospital Lahore. Currently working at Shifa International Hospital in Medical Oncology. I cleared my OET in Medicine in first attempt in 2021. Along with that I am also a Lifestyle blogger.",
+    "price": 10.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQEY2mtJcP02SQ/profile-displayphoto-shrink_800_800/0/1614698266631?e=1640217600&v=beta&t=wgS1eZ_zmGPQnmHDHvZbPdroOOvOvwzvB27UCLFFFxc",
+    "type": "Medicine"
+  },
+  {
+    "id": 4,
+    "title": "Iqra Abbasi",
+    "designation": "MSA at Shifa International Hospitals Limited",
+    "description": "Coordinator Medical Staff Affairs- MSA at Shifa International Hospitals Limited",
+    "price": 23.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE94i14dQWlSg/profile-displayphoto-shrink_800_800/0/1585241835334?e=1640217600&v=beta&t=jqGnsLAoJ866VHY0rmd1kMcp477XDhtrv9CGN4cBTPk",
+    "type": "Medicine"
+  },
+  {
+    "id": 5,
+    "title": "Saima Bakhtawar",
+    "designation": "doctor",
+    "description": "Medical Officer",
+    "price": 3.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHBDZQtZQBkdA/profile-displayphoto-shrink_800_800/0/1517985504093?e=1640217600&v=beta&t=b7HF1HS9INXTCCvX8pGeQPM9HJXPXQ636Hp-YIgHyRQ",
+    "type": "Medicine"
+  },
+  {
+    "id": 6,
+    "title": "Fareha Zahid",
+    "designation": " Medical Doctor",
+    "description": "Posts Fareha created, shared, or commented on in the last 90 days are displayed here.",
+    "price": 19.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQEOJuSQcATbow/profile-displayphoto-shrink_800_800/0/1517441844190?e=1640217600&v=beta&t=0-DkVn_Arj1k6NDrb0Bq-GutzTb8kqdZW7RteOKTTSQ",
+    "type": "Medicine"
+  },
+  {
+    "id": 7,
+    "title": "Dr. Visana Neurologist",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 15.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E0BAQH6X9XQ-lVHXw/company-logo_200_200/0/1519903388509?e=1642636800&v=beta&t=cTfWDlWosUGAcIcnr6JuUoIbvAbr6z4Ji73I3kuKiuQ",
+    "type": "Neurologist"
+  },
+  {
+    "id": 8,
+    "title": "Dr. Risana",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 7.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGaNMNaIXying/profile-displayphoto-shrink_200_200/0/1624333011289?e=1640217600&v=beta&t=LN7BMIxBaScTpmEH0Efad0Oz9R7IdBbHsBPU55OkJgs",
+    "type": "Neurologist"
+  },
+  {
+    "id": 9,
+    "title": "Dr. Tisana",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 7.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGQYloKmupgvQ/profile-displayphoto-shrink_200_200/0/1634295456745?e=1640217600&v=beta&t=ggy7ZhjRISSsQHpCaaIgyhrgmbEnlxN0-u54gs2dlGs",
+    "type": "Neurologist"
+  },
+  {
+    "id": 10,
+    "title": "Dr. Yisana",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 8.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEXGHDQs6rHIQ/profile-displayphoto-shrink_200_200/0/1605929170181?e=1640217600&v=beta&t=4j0zDlTLWZWIATMPwuHNHzGuHeYH69AUKSsvHLVqPMo",
+    "type": "Neurologist"
+  },
+  {
+    "id": 11,
+    "title": "Dr. Disana",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 13.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFwJuw8QlcQjg/profile-displayphoto-shrink_200_200/0/1593707892044?e=1640217600&v=beta&t=md-u0XnPL2-8IPMbU_HEQxLPuX3IEeAaTLfePREjysg",
+    "type": "Neurologist"
+  },
+  {
+    "id": 12,
+    "title": "Dr. Fisana",
+    "designation": " Medical Doctor",
+    "description": "Dr. Devshi Visana is a knowledgeable neurologist in Ahmedabad. Dr. Devshi Visana provides neurology services and is known as headache, Migraine, Stroke doctor in Ahmedabad. Dr. Visana works to ensure the availability of trustworthy services to his patients. He is also associated with well-known hospitals of the city for indoor/admission conveniences. - http://www.drvisananeuro.com/",
+    "price": 83.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQE99x4bmzB4Dw/profile-displayphoto-shrink_200_200/0/1589746541943?e=1640217600&v=beta&t=0UU41oWtXCVM-d38vjqmB0p4EPIxNy3EW__peqG5CqE",
+    "type": "Neurologist"
+  },
+  {
+    "id": 13,
+    "title": "Dr. Daniel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 66.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEvAw0CVAYexA/profile-displayphoto-shrink_200_200/0/1516869039474?e=1640217600&v=beta&t=hcwQ_GwZgVYBfKMSU3e2j-x9ZVFgQp3mSCc2yozEkFQ",
+    "type": "Cardiologist"
+  },
+  {
+    "id": 14,
+    "title": "Dr. Faniel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 56.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQF8I3TpuJpaoA/profile-displayphoto-shrink_200_200/0/1592181412163?e=1640217600&v=beta&t=v7gtebEU-FG-Hu5W_gQH1dGWaW9bugl1TK42zEh-Mi0",
+    "type": "Cardiologist"
+  },
+  {
+    "id": 15,
+    "title": "Dr. Ganiel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 3.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGATFPwrOxW-Q/profile-displayphoto-shrink_200_200/0/1516803522510?e=1640217600&v=beta&t=AlAwANi1US9iMHLc8HJXg32bMF3INsUAxgA6-civSJg",
+    "type": "Cardiologist"
+  },
+  {
+    "id": 16,
+    "title": "Dr. Haniel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 23.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFnCtX8U_7F_g/profile-displayphoto-shrink_200_200/0/1517278202728?e=1640217600&v=beta&t=XCa_-o4D-YedjVI-6GUHcSvV0CfjAuQYSQm6MjyyR34",
+    "type": "Cardiologist"
+  },
+  {
+    "id": 17,
+    "title": "Dr. Janiel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 12.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEqIgVv8wHAhQ/profile-displayphoto-shrink_200_200/0/1568664641430?e=1640217600&v=beta&t=bE1lnYUYZQTC6XQ4an6uc3akA9Ln1htHZSdXGxfksYc",
+    "type": "Cardiologist"
+  },
+  {
+    "id": 18,
+    "title": "Dr. Kaniel Mills",
+    "designation": " Medical Doctor",
+    "description": "Medical specialists are doctors who have completed advanced education and clinical training in a specific area of medicine (their specialty area).",
+    "price": 9.99,
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFMlOCIfd8CcA/profile-displayphoto-shrink_200_200/0/1593280550532?e=1640217600&v=beta&t=3mTr0kKEbKo9MH9pZKdq6tR_iwTWLcGyj27OS3N3P3I",
+    "type": "Cardiologist"
+  }
+]

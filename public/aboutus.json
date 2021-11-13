@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://image.freepik.com/free-photo/african-american-female-paramedic-face-mask-standing-front-ambulance-car_151355-6946.jpg",
+    "icon": "./assets/ICON/Group 204.png",
+    "title": "Ambulance Service",
+    "description": "When in doubt, call 911. If you are not sure if you need an ambulance, better to call 911 and they will assist you directly."
+  },
+  {
+    "id": 2,
+    "image": "https://image.freepik.com/free-photo/doctor-with-white-robe-stethoscope_144627-43879.jpg",
+    "icon": "./assets/ICON/Group 1133.png",
+    "title": "Professional Doctors",
+    "description": "Medical doctors examine, diagnose and treat patients. They can specialize in a number of medical areas, such as pediatrics, anesthesiology or cardiology, or they can work as general practice physicians."
+  },
+  {
+    "id": 3,
+    "image": "https://image.freepik.com/free-photo/chemical-experiment-with-test-tube-laboratory_482257-13976.jpg",
+    "icon": "./assets/ICON/Group 245.png",
+    "title": "State of the art Equipment",
+    "description": "There are many different categories of medical equipment and supplies, but the main categories are: electronic, diagnostic, surgical, durable medical equipment (DME), acute care, and storage and transport."
+  }
+]
